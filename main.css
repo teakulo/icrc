@@ -1,0 +1,18 @@
+body  
+{
+    background-color: rgb(114, 122, 118);
+}
+
+h1 
+{color: rgb(104, 12, 12);
+text-align: center;
+border-style: inset;
+border-width: 7px;
+border-block-end-style: inherit
+p 
+{
+    font-family: "Times New Roman", Times, serif;
+
+}
+
+
