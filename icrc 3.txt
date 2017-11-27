@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<title>ICRC</title>
+<style>
+body  
+{
+    background-color: rgb(114, 122, 118);
+}
+
+h1 
+{color: rgb(104, 12, 12);
+text-align: center;
+border-style: inset;
+border-width: 7px;
+border-block-end-style: inherit
+p 
+{
+    font-family: "Times New Roman", Times, serif;
+
+}
+
+
+</style>
+
+<body>
+<h1>International Committee of the Red Cross (ICRC)</h1>
+<p>Established in 1863, the ICRC operates worldwide, helping people affected by conflict and armed violence and promoting the laws that protect victims of war. An independent and neutral organization, its mandate stems essentially from the Geneva Conventions of 1949. We are based in Geneva, Switzerland, and employ some 16,000 people in more than 80 countries. The ICRC is funded mainly by voluntary donations from governments and from National Red Cross and Red Crescent Societies.</p>
+<img src="https://seeklogo.com/images/I/International_Committee_of_the_Red_Cross__ICRC_-logo-0EF240F010-seeklogo.com.png" alt="icrc.png" ; style="float:left;width:100px;height:100px;">
+<p>Have you ever thought of working in the humanitarian field? Do you have "soft" skills and professional experience? If so, the ICRC may be the place for you!
+
+VISIT THE ESHOP </p>
+
+</body>
+</html>
