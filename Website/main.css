@@ -1,0 +1,41 @@
+body  
+{
+    background-color: rgb(114, 122, 118);
+    background-image: url("gray.jpg");
+    background-repeat: repeat-x;
+}
+}
+
+h1 
+{color: rgb(104, 12, 12);
+text-align: center;
+border-style: inset;
+border-width: 7px;
+border-block-end-style: inherit
+p 
+{
+    font-family: "Times New Roman", Times, serif;
+
+
+}
+div {
+    width: 300px;
+    border: 25px solid rgb(183, 196, 183);
+    padding: 25px;
+    margin: 25px;
+}
+table, td
+{
+border: 1px solid black;
+border-collapse: collapse;
+padding:15px
+text-align: center;
+}
+
+th
+{
+    text-align: left;
+    padding: 15px
+
+
+}
