@@ -1,18 +1,28 @@
 body  
 {
     background-color: rgb(114, 122, 118);
+    background-image: url("gray.jpg");
+    background-attachment: fixed;
 }
 
-h1 
+#first
 {color: rgb(104, 12, 12);
 text-align: center;
 border-style: inset;
 border-width: 7px;
-border-block-end-style: inherit
-p 
-{
-    font-family: "Times New Roman", Times, serif;
+border-block-end-style: inherit;
+font-size: 40px;
 
+div {
+    width: 300px;
+    border: 25px solid rgb(183, 196, 183);
+    padding: 25px;
+    margin: 25px;
 }
 
-
+table#t01 {
+    border: 5px solid black;
+    border-collapse: collapse;
+    padding: 15px;
+    border-spacing: 5px;
+}
